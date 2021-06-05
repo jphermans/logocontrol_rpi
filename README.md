@@ -5,3 +5,4 @@ This version is for the raspberry PI4 and is fully working. So it's possible to 
 
 sudo docker run -d --name logocontrol -p 8080:80 -v /path-to/logocontrol:/opt/LogoControl/data jphermans/logocontrol:latest
 
+On following link you can find a version for intel based systems: https://github.com/jphermans/logocontrol
